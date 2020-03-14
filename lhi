@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html class="avada-html-layout-wide avada-html-header-position-top avada-html-is-archive" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>EEG Archives | Neurodiagnostics EEG</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v13.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://trustedacademy.com/product-category/eeg/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="EEG Archives | Neurodiagnostics EEG" />
+<meta property="og:description" content="With the changes that came with the 2020 EEG codes, techs need to complete reports.  We have attached a template and instructions for you to use. Continuous monitoring template with instructions PND Continuous Monitoring Report Template_Draft 1_AMBedits PND  Here is another fun resource for studying from Petra Davidson who does our EEG Office Hours.  http://wix.to/Z8A3A_E  Previous Office Hours Recordings October 25th Office Hour Lecture November 22nd Office Hour Lecture December 22nd Office Hour Lecture January 23rd Office Hours Lecture  February 27th EEG Office Hours" />
+<meta property="og:url" content="https://trustedacademy.com/product-category/eeg/" />
+<meta property="og:site_name" content="Neurodiagnostics EEG" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="With the changes that came with the 2020 EEG codes, techs need to complete reports.  We have attached a template and instructions for you to use. Continuous monitoring template with instructions PND Continuous Monitoring Report Template_Draft 1_AMBedits PND  Here is another fun resource for studying from Petra Davidson who does our EEG Office Hours.  http://wix.to/Z8A3A_E  Previous Office Hours Recordings October 25th Office Hour Lecture November 22nd Office Hour Lecture December 22nd Office Hour Lecture January 23rd Office Hours Lecture  February 27th EEG Office Hours" />
+<meta name="twitter:title" content="EEG Archives | Neurodiagnostics EEG" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://trustedacademy.com/#website","url":"https://trustedacademy.com/","name":"Neurodiagnostics EEG","inLanguage":"en-US","description":"Online Training and Test Prep Course","potentialAction":{"@type":"SearchAction","target":"https://trustedacademy.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://trustedacademy.com/product-category/eeg/#webpage","url":"https://trustedacademy.com/product-category/eeg/","name":"EEG Archives | Neurodiagnostics EEG","isPartOf":{"@id":"https://trustedacademy.com/#website"},"inLanguage":"en-US"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+		
+		
+		
+		
+				<!-- This site uses the Google Analytics by ExactMetrics plugin v6.0.1 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var em_version         = '6.0.1';
+	var em_track_user      = true;
+	var em_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-128304998-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( em_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+window.ga = __gaTracker;		__gaTracker('create', 'UA-128304998-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+		__gaTracker( function() { window.ga = __gaTracker; } );
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + em_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+			window.ga = __gaTracker;		})();
+		}
+</script>
+<!-- / Google Analytics by ExactMetrics -->
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='font-awesome-css'  href='https://trustedacademy.com/wp-content/plugins/woocommerce-ajax-filters/berocket/assets/css/font-awesome.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='https://trustedacademy.com/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='single-testimonial-block-css'  href='https://trustedacademy.com/wp-content/plugins/easy-testimonials/blocks/single-testimonial/style.css?ver=1575290942' type='text/css' media='all' />
+<link rel='stylesheet' id='random-testimonial-block-css'  href='https://trustedacademy.com/wp-content/plugins/easy-testimonials/blocks/random-testimonial/style.css?ver=1575290942' type='text/css' media='all' />
+<link rel='stylesheet' id='testimonials-list-block-css'  href='https://trustedacademy.com/wp-content/plugins/easy-testimonials/blocks/testimonials-list/style.css?ver=1575290942' type='text/css' media='all' />
+<link rel='stylesheet' id='testimonials-cycle-block-css'  href='https://trustedacademy.com/wp-content/plugins/easy-testimonials/blocks/testimonials-cycle/style.css?ver=1575290942' type='text/css' media='all' />
+<link rel='stylesheet' id='testimonials-grid-block-css'  href='https://trustedacademy.com/wp-content/plugins/easy-testimonials/blocks/testimonials-grid/style.css?ver=1575290942' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://trustedacademy.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=2.5.11' type='text/css' media='all' />
+<link rel='stylesheet' id='learndash-blocks-css'  href='https://trustedacademy.com/wp-content/plugins/sfwd-lms/includes/gutenberg/lib/../assets/css/blocks.style.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ulgm-gutenberg-blocks-css'  href='https://trustedacademy.com/wp-content/plugins/uncanny-learndash-groups/src/blocks/dist/blocks.style.build.css?ver=3.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultp-gutenberg-blocks-css'  href='https://trustedacademy.com/wp-content/plugins/uncanny-learndash-toolkit/src/blocks/dist/blocks.style.build.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='utkp-gutenberg-blocks-css'  href='https://trustedacademy.com/wp-content/plugins/uncanny-toolkit-pro/src/blocks/dist/blocks.style.build.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-legacy-css-css'  href='https://trustedacademy.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.min.css?ver=5.1.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://trustedacademy.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='easy_testimonial_style-css'  href='https://trustedacademy.com/wp-content/plugins/easy-testimonials/include/assets/css/style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='guw-styles-css'  href='https://trustedacademy.com/wp-content/plugins/guw_additional_features/css/guw-styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='learndash_quiz_front_css-css'  href='//trustedacademy.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_quiz_front.min.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='learndash_style-css'  href='//trustedacademy.com/wp-content/plugins/sfwd-lms/assets/css/style.min.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sfwd_front_css-css'  href='//trustedacademy.com/wp-content/plugins/sfwd-lms/assets/css/front.min.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-dropdown-css-css'  href='//trustedacademy.com/wp-content/plugins/sfwd-lms/assets/css/jquery.dropdown.min.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='learndash_pager_css-css'  href='//trustedacademy.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_pager.min.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='learndash_template_style_css-css'  href='//trustedacademy.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_template_style.min.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='learndash_lesson_video-css'  href='//trustedacademy.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_lesson_video.min.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='https://trustedacademy.com/wp-content/plugins/theme-my-login/assets/styles/theme-my-login.min.css?ver=7.0.15' type='text/css' media='all' />
+<link rel='stylesheet' id='uncannyowl-learndash-toolkit-free-css'  href='https://trustedacademy.com/wp-content/plugins/uncanny-learndash-toolkit/src/assets/frontend/dist/bundle.min.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ultp-frontend-css'  href='https://trustedacademy.com/wp-content/plugins/uncanny-toolkit-pro/src/assets/dist/frontend/bundle.min.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='berocket_aapf_widget-style-css'  href='https://trustedacademy.com/wp-content/plugins/woocommerce-ajax-filters/css/widget.css?ver=1.4.1.7' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='avada-stylesheet-css'  href='https://trustedacademy.com/wp-content/themes/Avada/assets/css/style.min.css?ver=6.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='https://trustedacademy.com/wp-content/themes/Avada-Child-Theme/style.css?ver=5.3.2' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='avada-IE-css'  href='https://trustedacademy.com/wp-content/themes/Avada/assets/css/ie.min.css?ver=6.2.0' type='text/css' media='all' />
+<style id='avada-IE-inline-css' type='text/css'>
+.avada-select-parent .select-arrow{background-color:#ffffff}
+.select-arrow{background-color:#ffffff}
+</style>
+<![endif]-->
+<link rel='stylesheet' id='fw-ext-breadcrumbs-add-css-css'  href='https://trustedacademy.com/wp-content/plugins/unyson/framework/extensions/breadcrumbs/static/css/style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-ext-builder-frontend-grid-css'  href='https://trustedacademy.com/wp-content/plugins/unyson/framework/extensions/builder/static/css/frontend-grid.css?ver=1.2.11' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-ext-forms-default-styles-css'  href='https://trustedacademy.com/wp-content/plugins/unyson/framework/extensions/forms/static/css/frontend.css?ver=2.7.22' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='https://trustedacademy.com/wp-content/plugins/easy-fancybox/css/jquery.fancybox.min.css?ver=1.3.24' type='text/css' media='screen' />
+<link rel='stylesheet' id='popup-maker-site-css'  href='//trustedacademy.com/wp-content/uploads/pum/pum-site-styles.css?generated=1583154352&#038;ver=1.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fusion-dynamic-css-css'  href='https://trustedacademy.com/wp-content/uploads/fusion-styles/cfe7172e7e829c2df68de3847039ab94.min.css?ver=2.2.0' type='text/css' media='all' />
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://trustedacademy.com/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}
+</style>
+<script type='text/javascript' src='https://trustedacademy.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.10.0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.10.0'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.10.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/trustedacademy.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js?ver=6.0.1'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/sfwd-lms/includes/gutenberg/lib/../assets/js/frontend.blocks.js?ver=3.1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_Confirm = {"are_you_sure":"Are you sure?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/buddypress/bp-core/js/confirm.min.js?ver=5.1.2'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js?ver=5.1.2'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js?ver=5.1.2'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-cookie.min.js?ver=5.1.2'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-scroll-to.min.js?ver=5.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":"Favorite","my_favs":"My Favorites","rejected":"Rejected","remove_fav":"Remove Favorite","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all comments (%d)","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View","store_filter_settings":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.min.js?ver=5.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"https:\/\/trustedacademy.com\/wp-admin\/admin-ajax.php","hideEffect":"fade","onScroll":"no","onScrollOffset":"100","onClick":"","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"604800","cookiePath":"\/","cookieDomain":"","redirection":"","cache":"1","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.50'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/uncanny-learndash-toolkit/src/assets/frontend/dist/bundle.min.js?ver=3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var UncannyToolkitPro = {"restURL":"https:\/\/trustedacademy.com\/wp-json\/uo_toolkit\/v1\/","nonce":"1d07075057"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/uncanny-toolkit-pro/src/assets/dist/frontend/bundle.min.js?ver=3.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var easy_testimonials_reveal = {"show_less_text":"Show Less"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/easy-testimonials/include/assets/js/easy-testimonials-reveal.js?ver=5.3.2'></script>
+<meta name="generator" content="Powered by LayerSlider 6.10.0 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel='https://api.w.org/' href='https://trustedacademy.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://trustedacademy.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://trustedacademy.com/wp-includes/wlwmanifest.xml" /> 
+
+	<script type="text/javascript">var ajaxurl = 'https://trustedacademy.com/wp-admin/admin-ajax.php';</script>
+
+<style type="text/css" media="screen"></style><style type="text/css" media="screen">@media (max-width: 728px) {}</style><style type="text/css" media="screen">@media (max-width: 320px) {}</style><script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<!-- Stream WordPress user activity plugin v3.4.2 -->
+<style type="text/css" id="tve_global_variables">:root{}</style><style></style><!-- Analytics by WP-Statistics v12.6.12 - https://wp-statistics.com/ -->
+<style type="text/css" id="css-fb-visibility">@media screen and (max-width: 640px){body:not(.fusion-builder-ui-wireframe) .fusion-no-small-visibility{display:none !important;}}@media screen and (min-width: 641px) and (max-width: 1024px){body:not(.fusion-builder-ui-wireframe) .fusion-no-medium-visibility{display:none !important;}}@media screen and (min-width: 1025px){body:not(.fusion-builder-ui-wireframe) .fusion-no-large-visibility{display:none !important;}}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+<style type="text/css" xmlns="http://www.w3.org/1999/html">
+
+/*
+PowerPress subscribe sidebar widget
+*/
+.widget-area .widget_powerpress_subscribe h2,
+.widget-area .widget_powerpress_subscribe h3,
+.widget-area .widget_powerpress_subscribe h4,
+.widget_powerpress_subscribe h2,
+.widget_powerpress_subscribe h3,
+.widget_powerpress_subscribe h4 {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+</style>
+<style type="text/css" id="thrive-default-styles"></style>		<style type="text/css" id="wp-custom-css">
+			#shoping .fusion-column-wrapper{
+	text-align: center;
+}
+#shoping .fusion-layout-column img{
+    border: 4px #ffffff solid;
+    box-shadow: 0px 0px 5px #a4a4a4;
+}
+#shoping h1{
+	    font-size: 44px;
+    font-weight: bold;
+    padding-top: 20px;
+	    margin-bottom: 50px;
+}
+#shoping .featured_category h3 {
+	font-size: 24px;
+	font-weight: 700;
+	text-align: center;
+	margin-top: 10px;
+}
+#shoping .woocommerce img {
+    width: 100%;
+    height: 200px;
+    min-height: 200px;
+}
+#shoping .products li.product{
+	    box-shadow: 0px 0px 30px #cecece;
+    border: 0;
+	    height: 430px;
+    min-height: 430px;
+}
+#shoping .products li.product:hover{
+	    z-index: 2;
+    box-shadow: 0 15px 30px rgba(0,0,0,.1);
+    -webkit-transform: translate3d(0,-2px,0);
+    transform: translate3d(0,-2px,0);
+	transition:.3s;
+}
+#shoping h3.product-title, 
+.woocommerce-container .product-title{
+	    font-size:16px;
+    text-align: left;
+}
+#shoping h3.product-title a{
+	    font-size: 13px;
+    text-align: left;
+	    line-height: 0px !important;
+}
+#shoping .product .price {
+    font-weight: bold;
+}
+#shoping .crossfade-images{
+	    height: 200px !important;
+    min-height: 200px !important;
+}
+#shoping .product-details {
+    min-height: 120px;
+}
+#paypal-button-container {
+	max-width: 300px;
+}
+#study-categories .products li {
+	border-color: transparent;
+	text-align: center;
+}
+#study-categories .products li img {
+	width: 450px;
+  height: 280px;
+}
+@media only screen and (max-width: 1050px) {
+	#study-categories .products li {
+	width: 450px;	
+	}
+}		</style>
+				<script type="text/javascript">
+			var doc = document.documentElement;
+			doc.setAttribute( 'data-useragent', navigator.userAgent );
+		</script>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+	<meta name="google-site-verification" content="JtZHeVuSI2mtbRHvdRQU16lWla-Z5khjbYExT1jQSOs" />
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '231564060864252');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=231564060864252&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --></head>
+
+<body class="bp-legacy archive tax-product_cat term-eeg term-79 theme-Avada cookies-set cookies-accepted woocommerce woocommerce-page woocommerce-no-js fusion-image-hovers fusion-pagination-sizing fusion-button_size-large fusion-button_type-flat fusion-button_span-no avada-image-rollover-circle-no avada-image-rollover-yes avada-image-rollover-direction-center_horiz fusion-body ltr fusion-sticky-header no-tablet-sticky-header no-mobile-sticky-header no-mobile-slidingbar no-mobile-totop avada-has-rev-slider-styles fusion-disable-outline fusion-sub-menu-fade mobile-logo-pos-left layout-wide-mode avada-has-boxed-modal-shadow-none layout-scroll-offset-full avada-has-zero-margin-offset-top fusion-top-header menu-text-align-center fusion-woo-product-design-classic fusion-woo-shop-page-columns-4 fusion-woo-related-columns-4 fusion-woo-archive-page-columns-4 avada-has-woo-gallery-disabled mobile-menu-design-flyout fusion-show-pagination-text fusion-header-layout-v7 avada-responsive avada-footer-fx-none avada-menu-highlight-style-bar fusion-search-form-classic fusion-main-menu-search-dropdown fusion-avatar-square avada-dropdown-styles avada-blog-layout-large avada-blog-archive-layout-large avada-header-shadow-yes avada-menu-icon-position-top avada-has-megamenu-shadow avada-has-mainmenu-dropdown-divider avada-has-pagetitle-bg-parallax avada-has-mobile-menu-search avada-has-100-footer avada-has-breadcrumb-mobile-hidden avada-has-titlebar-bar_and_content avada-social-full-transparent avada-has-slidingbar-widgets avada-has-slidingbar-position-right avada-slidingbar-toggle-style-menu avada-has-slidingbar-sticky avada-has-pagination-padding avada-flyout-menu-direction-fade avada-ec-views-v1 no-js" >
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<div id="boxed-wrapper">
+		<div class="fusion-sides-frame"></div>
+		<div id="wrapper" class="fusion-wrapper">
+			<div id="home" style="position:relative;top:-1px;"></div>
+			
+			<header class="fusion-header-wrapper fusion-header-shadow">
+				<div class="fusion-header-v7 fusion-logo-alignment fusion-logo-left fusion-sticky-menu- fusion-sticky-logo- fusion-mobile-logo-  fusion-mobile-menu-design-flyout fusion-header-has-flyout-menu">
+					<div class="fusion-header-sticky-height"></div>
+<div class="fusion-header" >
+	<div class="fusion-row fusion-middle-logo-menu">
+					<div class="fusion-header-has-flyout-menu-content">
+				<nav class="fusion-main-menu fusion-main-menu-sticky" aria-label="Main Menu"><ul id="menu-main-menu" class="fusion-menu fusion-middle-logo-ul"><li  id="menu-item-72317"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-72317"  data-item-id="72317"><a  href="https://trustedacademy.com/" class="fusion-top-level-link fusion-icon-only-link fusion-flex-link fusion-flex-column fusion-bar-highlight"><span class="fusion-megamenu-icon"><i class="glyphicon fa-home fas"></i></span><span class="menu-text"><span class="menu-title">Home New</span></span></a></li><li  id="menu-item-79"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"  data-item-id="79"><a  href="https://trustedacademy.com/login/" class="fusion-top-level-link fusion-flex-link fusion-flex-column fusion-bar-highlight"><span class="fusion-megamenu-icon"><i class="glyphicon fa-user-plus fas"></i></span><span class="menu-text">Log In</span></a></li><li  id="menu-item-5925"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5925"  data-item-id="5925"><a  href="https://trustedacademy.com/upcoming-classes/" class="fusion-top-level-link fusion-flex-link fusion-flex-column fusion-bar-highlight"><span class="fusion-megamenu-icon"><i class="glyphicon fa-chalkboard fas"></i></span><span class="menu-text">Upcoming Classes</span></a></li>	<li class="fusion-middle-logo-menu-logo fusion-logo" data-margin-top="5px" data-margin-bottom="10px" data-margin-left="0px" data-margin-right="0px">
+			<a class="fusion-logo-link"  href="https://trustedacademy.com/" >
+
+						<!-- standard logo -->
+			<img src="https://trustedacademy.com/wp-content/uploads/Trusted_Neurodiagnostics_Academy_Logo.jpg" srcset="https://trustedacademy.com/wp-content/uploads/Trusted_Neurodiagnostics_Academy_Logo.jpg 1x" width="150" height="63" alt="Neurodiagnostics EEG Logo" data-retina_logo_url="" class="fusion-standard-logo" />
+
+			
+					</a>
+		</li><li  id="menu-item-4960"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4960"  data-item-id="4960"><a  href="https://trustedacademy.com/shop/" class="fusion-top-level-link fusion-flex-link fusion-flex-column fusion-bar-highlight"><span class="fusion-megamenu-icon"><i class="glyphicon fa-shopping-bag fas"></i></span><span class="menu-text">Shop</span></a></li><li  id="menu-item-5913"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5913"  data-item-id="5913"><a  href="https://trustedacademy.com/site-eeg-training/" class="fusion-top-level-link fusion-flex-link fusion-flex-column fusion-bar-highlight"><span class="fusion-megamenu-icon"><i class="glyphicon fa-globe-americas fas"></i></span><span class="menu-text">On Site Training</span></a></li><li  id="menu-item-71385"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-71385 fusion-dropdown-menu"  data-item-id="71385"><a  href="#" class="fusion-top-level-link fusion-flex-link fusion-flex-column fusion-bar-highlight"><span class="fusion-megamenu-icon"><i class="glyphicon fa-caret-down fas"></i></span><span class="menu-text">More</span></a><ul class="sub-menu"><li  id="menu-item-4887"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4887 fusion-dropdown-submenu" ><a  href="https://trustedacademy.com/about-us/" class="fusion-bar-highlight"><span><span class="fusion-megamenu-icon"><i class="glyphicon fa-chess-king fas"></i></span>About Us</span></a></li><li  id="menu-item-96230"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96230 fusion-dropdown-submenu" ><a  href="https://trustedacademy.com/reviews/" class="fusion-bar-highlight"><span>Reviews</span></a></li><li  id="menu-item-97111"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97111 fusion-dropdown-submenu" ><a  href="https://trustedacademy.com/study-tips/" class="fusion-bar-highlight"><span>Study Resources</span></a></li><li  id="menu-item-4861"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4861 fusion-dropdown-submenu" ><a  href="https://trustedacademy.com/faq/" class="fusion-bar-highlight"><span>FAQ</span></a></li><li  id="menu-item-4860"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4860 fusion-dropdown-submenu" ><a  href="https://trustedacademy.com/articles/" class="fusion-bar-highlight"><span>Guidelines</span></a></li><li  id="menu-item-81166"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81166 fusion-dropdown-submenu" ><a  href="https://trustedacademy.com/group-management/" class="fusion-bar-highlight"><span>Group Management</span></a></li><li  id="menu-item-5366"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5366 fusion-dropdown-submenu" ><a  href="https://trustedacademy.com/contact/" class="fusion-bar-highlight"><span>Contact</span></a></li></ul></li><li class="fusion-custom-menu-item fusion-menu-cart fusion-main-menu-cart"><a class="fusion-main-menu-icon fusion-bar-highlight" href="https://trustedacademy.com/cart/"><span class="menu-text" aria-label="View Cart"></span></a></li><li class="fusion-custom-menu-item fusion-main-menu-sliding-bar" data-classes="fusion-main-menu-sliding-bar"><a class="fusion-main-menu-icon fusion-icon-sliding-bar fusion-bar-highlight" href="#" aria-label="Toggle Sliding Bar" data-title="Toggle Sliding Bar" title="Toggle Sliding Bar"></a></li></ul></nav><div class="fusion-flyout-menu-icons fusion-flyout-mobile-menu-icons">
+	<div class="fusion-flyout-cart-wrapper"><a href="https://trustedacademy.com/cart/" class="fusion-icon fusion-icon-shopping-cart" aria-hidden="true" aria-label="Toggle Shopping Cart"></a></div>
+	
+			<div class="fusion-flyout-search-toggle">
+			<div class="fusion-toggle-icon">
+				<div class="fusion-toggle-icon-line"></div>
+				<div class="fusion-toggle-icon-line"></div>
+				<div class="fusion-toggle-icon-line"></div>
+			</div>
+			<a class="fusion-icon fusion-icon-search" aria-hidden="true" aria-label="Toggle Search" href="#"></a>
+		</div>
+	
+				<a class="fusion-flyout-menu-toggle" aria-hidden="true" aria-label="Toggle Menu" href="#">
+			<div class="fusion-toggle-icon-line"></div>
+			<div class="fusion-toggle-icon-line"></div>
+			<div class="fusion-toggle-icon-line"></div>
+		</a>
+	</div>
+
+	<div class="fusion-flyout-search">
+				<form role="search" class="searchform fusion-search-form  fusion-search-form-classic" method="get" action="https://trustedacademy.com/">
+			<div class="fusion-search-form-content">
+
+				
+				<div class="fusion-search-field search-field">
+					<label><span class="screen-reader-text">Search for:</span>
+													<input type="search" value="" name="s" class="s" placeholder="Search..." required aria-required="true" aria-label=""/>
+											</label>
+				</div>
+				<div class="fusion-search-button search-button">
+					<input type="submit" class="fusion-search-submit searchsubmit" value="&#xf002;" />
+									</div>
+
+				
+			</div>
+
+
+			
+		</form>
+			</div>
+
+<div class="fusion-flyout-menu-bg"></div>
+
+<nav class="fusion-mobile-nav-holder fusion-flyout-menu fusion-flyout-mobile-menu" aria-label="Main Menu Mobile"></nav>
+
+							</div>
+			</div>
+</div>
+				</div>
+				<div class="fusion-clearfix"></div>
+			</header>
+						
+			
+		<div id="sliders-container">
+					</div>
+				
+			
+			<div class="avada-page-titlebar-wrapper">
+				<div class="fusion-page-title-bar fusion-page-title-bar-breadcrumbs fusion-page-title-bar-center">
+	<div class="fusion-page-title-row">
+		<div class="fusion-page-title-wrapper">
+			<div class="fusion-page-title-captions">
+
+																			<h1 class="entry-title">EEG</h1>
+
+									
+													
+			</div>
+
+			
+		</div>
+	</div>
+</div>
+			</div>
+
+						<main id="main" class="clearfix ">
+				<div class="fusion-row" style="">
+		<div class="woocommerce-container">
+			<section id="content"class="full-width" style="width: 100%;">
+		<header class="woocommerce-products-header">
+	
+	<div class="term-description"><p>With the changes that came with the 2020 EEG codes, techs need to complete reports.  We have attached a template and instructions for you to use.</p>
+<p><a href="https://trustedacademy.com/wp-content/uploads/Continuous-monitoring-template-with-instructions-PND.pdf">Continuous monitoring template with instructions PND</a></p>
+<p><a href="https://trustedacademy.com/wp-content/uploads/Continuous-Monitoring-Report-Template_Draft-1_AMBedits-PND.pdf">Continuous Monitoring Report Template_Draft 1_AMBedits PND</a></p>
+<hr />
+<div>
+<div>
+<p style="text-align: center;">Here is another fun resource for studying from Petra Davidson who does our EEG Office Hours.</p>
+</div>
+</div>
+<p>http://wix.to/Z8A3A_E</p>
+<hr />
+<div>
+<div>
+<h4><strong>Previous Office Hours Recordings</strong></h4>
+<p><a href="https://vimeo.com/391535884">October 25th Office Hour Lecture</a></p>
+<p><a href="https://vimeo.com/391483138">November 22nd Office Hour Lecture</a></p>
+<p><a href="https://vimeo.com/391507392">December 22nd Office Hour Lecture</a></p>
+<p style="text-align: left;"><a href="https://www.dropbox.com/s/shkfwfwcp01ob8i/January%2023%20EEG%20Office%20Hours.mp4?dl=0">January 23rd Office Hours Lecture </a></p>
+</div>
+<p><a href="https://vimeo.com/394949102">February 27th EEG Office Hours</a></p>
+</div>
+</div></header>
+<div class="woocommerce-notices-wrapper"></div>
+<div class="catalog-ordering fusion-clearfix">
+			<div class="orderby-order-container">
+			<ul class="orderby order-dropdown">
+				<li>
+					<span class="current-li">
+						<span class="current-li-content">
+														<a aria-haspopup="true">Sort by <strong>Relevance</strong></a>
+						</span>
+					</span>
+					<ul>
+													<li class="current">
+																<a href="?show_on_study=1&product_orderby=relevance">Sort by <strong>Relevance</strong></a>
+							</li>
+																			<li class="">
+																<a href="?show_on_study=1&product_orderby=default">Sort by <strong>Default Order</strong></a>
+							</li>
+												<li class="">
+														<a href="?show_on_study=1&product_orderby=name">Sort by <strong>Name</strong></a>
+						</li>
+						<li class="">
+														<a href="?show_on_study=1&product_orderby=price">Sort by <strong>Price</strong></a>
+						</li>
+						<li class="">
+														<a href="?show_on_study=1&product_orderby=date">Sort by <strong>Date</strong></a>
+						</li>
+						<li class="">
+														<a href="?show_on_study=1&product_orderby=popularity">Sort by <strong>Popularity</strong></a>
+						</li>
+													<li class="">
+																<a href="?show_on_study=1&product_orderby=rating">Sort by <strong>Rating</strong></a>
+							</li>
+											</ul>
+				</li>
+			</ul>
+
+			<ul class="order">
+															<li class="desc"><a aria-label="Ascending order" aria-haspopup="true" href="?show_on_study=1&product_order=asc"><i class="fusion-icon-arrow-down2 icomoon-up"></i></a></li>
+												</ul>
+		</div>
+
+		<ul class="sort-count order-dropdown">
+			<li>
+				<span class="current-li">
+					<a aria-haspopup="true">
+						Show <strong>12 Products</strong>						</a>
+					</span>
+				<ul>
+					<li class="current">
+						<a href="?show_on_study=1&product_count=12">
+							Show <strong>12 Products</strong>						</a>
+					</li>
+					<li class="">
+						<a href="?show_on_study=1&product_count=24">
+							Show <strong>24 Products</strong>						</a>
+					</li>
+					<li class="">
+						<a href="?show_on_study=1&product_count=36">
+							Show <strong>36 Products</strong>						</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	
+											<ul class="fusion-grid-list-view">
+			<li class="fusion-grid-view-li active-view">
+				<a class="fusion-grid-view" aria-label="View as grid" aria-haspopup="true" href="?show_on_study=1&product_view=grid"><i class="fusion-icon-grid icomoon-grid"></i></a>
+			</li>
+			<li class="fusion-list-view-li">
+				<a class="fusion-list-view" aria-haspopup="true" aria-label="View as list" href="?show_on_study=1&product_view=list"><i class="fusion-icon-list icomoon-list"></i></a>
+			</li>
+		</ul>
+	</div>
+<ul class="products clearfix products-4">
+<li class="product-grid-view product type-product post-97546 status-publish first instock product_cat-eeg has-post-thumbnail sale virtual purchasable product-type-simple">
+	<a href="https://trustedacademy.com/product/foundations-plus-eeg-from-a-to-z-a-full-didactic-series-31-aset-ceus/" class="product-images" aria-label="Foundations PLUS &#8211; EEG from A to Z; A Full Didactic Series © 31 ASET CEUs">
+
+	<span class="onsale">Sale!</span>
+
+<div class="featured-image">
+		<img width="500" height="500" src="https://trustedacademy.com/wp-content/uploads/CNIM-Board-Prep-11-500x500.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://trustedacademy.com/wp-content/uploads/CNIM-Board-Prep-11-50x50.jpg 50w, https://trustedacademy.com/wp-content/uploads/CNIM-Board-Prep-11-66x66.jpg 66w, https://trustedacademy.com/wp-content/uploads/CNIM-Board-Prep-11-100x100.jpg 100w, https://trustedacademy.com/wp-content/uploads/CNIM-Board-Prep-11-150x150.jpg 150w, https://trustedacademy.com/wp-content/uploads/CNIM-Board-Prep-11-200x200.jpg 200w, https://trustedacademy.com/wp-content/uploads/CNIM-Board-Prep-11-300x300.jpg 300w, https://trustedacademy.com/wp-content/uploads/CNIM-Board-Prep-11-400x400.jpg 400w, https://trustedacademy.com/wp-content/uploads/CNIM-Board-Prep-11-500x500.jpg 500w, https://trustedacademy.com/wp-content/uploads/CNIM-Board-Prep-11-600x600.jpg 600w, https://trustedacademy.com/wp-content/uploads/CNIM-Board-Prep-11-700x700.jpg 700w, https://trustedacademy.com/wp-content/uploads/CNIM-Board-Prep-11.jpg 800w" sizes="(max-width: 500px) 100vw, 500px" />			<div class="cart-loading"><i class="fusion-icon-spinner"></i></div>
+	</div>
+</a>
+<div class="fusion-product-content">
+	<div class="product-details">
+		<div class="product-details-container">
+<h3 class="product-title">
+	<a href="https://trustedacademy.com/product/foundations-plus-eeg-from-a-to-z-a-full-didactic-series-31-aset-ceus/">
+		Foundations PLUS &#8211; EEG from A to Z; A Full Didactic Series © 31 ASET CEUs	</a>
+</h3>
+<div class="fusion-price-rating">
+
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>750.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>600.00</span></ins></span>
+		</div>
+	</div>
+</div>
+
+
+	<div class="product-buttons">
+		<div class="fusion-content-sep sep-single sep-dotted"></div>
+		<div class="product-buttons-container clearfix">
+<a href="?add-to-cart=97546" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="97546" data-product_sku="" aria-label="Add &ldquo;Foundations PLUS - EEG from A to Z; A Full Didactic Series © 31 ASET CEUs&rdquo; to your cart" rel="nofollow">Add to cart</a>
+<a href="https://trustedacademy.com/product/foundations-plus-eeg-from-a-to-z-a-full-didactic-series-31-aset-ceus/" class="show_details_button">
+	Details</a>
+
+
+	</div>
+	</div>
+
+	</div> </li>
+<li class="product-grid-view product type-product post-53113 status-publish instock product_cat-board-prep product_cat-eeg has-post-thumbnail virtual sold-individually purchasable product-type-course">
+	<a href="https://trustedacademy.com/product/lhi-eeg-board-prep-with-print-format-study-guide/" class="product-images" aria-label="LHI EEG Board Prep © 25 ASET CEUs with Print Format Study Guide">
+
+<div class="featured-image">
+		<img width="500" height="500" src="https://trustedacademy.com/wp-content/uploads/EEG-BP-and-SG-500x500.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="" srcset="https://trustedacademy.com/wp-content/uploads/EEG-BP-and-SG-100x100.jpg 100w, https://trustedacademy.com/wp-content/uploads/EEG-BP-and-SG-150x150.jpg 150w, https://trustedacademy.com/wp-content/uploads/EEG-BP-and-SG-250x250.jpg 250w, https://trustedacademy.com/wp-content/uploads/EEG-BP-and-SG-300x300.jpg 300w, https://trustedacademy.com/wp-content/uploads/EEG-BP-and-SG-500x500.jpg 500w, https://trustedacademy.com/wp-content/uploads/EEG-BP-and-SG-700x700.jpg 700w, https://trustedacademy.com/wp-content/uploads/EEG-BP-and-SG.jpg 800w" sizes="(max-width: 500px) 100vw, 500px" />			<div class="cart-loading"><i class="fusion-icon-spinner"></i></div>
+	</div>
+</a>
+<div class="fusion-product-content">
+	<div class="product-details">
+		<div class="product-details-container">
+<h3 class="product-title">
+	<a href="https://trustedacademy.com/product/lhi-eeg-board-prep-with-print-format-study-guide/">
+		LHI EEG Board Prep © 25 ASET CEUs with Print Format Study Guide	</a>
+</h3>
+<div class="fusion-price-rating">
+
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>495.00</span></span>
+		</div>
+	</div>
+</div>
+
+
+	<div class="product-buttons">
+		<div class="fusion-content-sep sep-single sep-dotted"></div>
+		<div class="product-buttons-container clearfix">
+<a href="/product-category/eeg/?show_on_study=1&#038;add-to-cart=53113" data-quantity="1" class="button product_type_course add_to_cart_button ajax_add_to_cart" data-product_id="53113" data-product_sku="" aria-label="Read more about &ldquo;LHI EEG Board Prep © 25 ASET CEUs with Print Format Study Guide&rdquo;" rel="nofollow">Add to cart</a>
+<a href="https://trustedacademy.com/product/lhi-eeg-board-prep-with-print-format-study-guide/" class="show_details_button">
+	Details</a>
+
+
+	</div>
+	</div>
+
+	</div> </li>
+</ul>
+
+	</section>
+</div>
+						
+					</div>  <!-- fusion-row -->
+				</main>  <!-- #main -->
+				
+				
+								
+					
+		<div class="fusion-footer">
+					
+	<footer class="fusion-footer-widget-area fusion-widget-area">
+		<div class="fusion-row">
+			<div class="fusion-columns fusion-columns-3 fusion-widget-area">
+				
+																									<div class="fusion-column col-lg-4 col-md-4 col-sm-4">
+							<section id="text-2" class="fusion-footer-widget-column widget widget_text"><h4 class="widget-title">Trusted Neurodiagnostics Academy</h4>			<div class="textwidget"><p>When we started our careers in IOM, 10+ years ago we were thrown into the OR with little to no formal training.  Without access to a quality program and no guidance, we struggled to pass the CNIM exam.  As we grew in our careers that time was never far from our minds and we don’t want new technologists to have the same struggles we did.<br />
+<a href="https://trustedacademy.com/about-us/">Read More</a><br />
+1112 Etowah Trail, <br />
+Dahlonega, GA 30533<br />
+Phone:  866-785-7023</p>
+</div>
+		<div style="clear:both;"></div></section>																					</div>
+																										<div class="fusion-column col-lg-4 col-md-4 col-sm-4">
+							<section id="text-3" class="fusion-footer-widget-column widget widget_text"><h4 class="widget-title">Get Your CEUs</h4>			<div class="textwidget"><p style="text-align: center;"><a href="https://trustedacademy.com/shop/" rel="attachment wp-att-16294"><img class="aligncenter wp-image-16294 size-medium" src="https://trustedacademy.com/wp-content/uploads/Get-your-CEUs-at-home-300x251.jpg" alt="" width="300" height="251" /></a></p>
+</div>
+		<div style="clear:both;"></div></section><style type="text/css" data-id="custom_html-3">@media (max-width: 1050px){#custom_html-3{text-align:center !important;}}</style><section id="custom_html-3" class="widget_text fusion-widget-mobile-align-center fusion-widget-align-center fusion-footer-widget-column widget widget_custom_html" style="text-align: center;"><div class="textwidget custom-html-widget"><div style="font-size: 11px; text-transform: uppercase; line-height: 1.5;">
+© Copyright - <script>document.write(new Date().getFullYear());</script>   |  trustedacademy.com </div></div><div style="clear:both;"></div></section>																					</div>
+																										<div class="fusion-column fusion-column-last col-lg-4 col-md-4 col-sm-4">
+							<section id="text-4" class="fusion-footer-widget-column widget widget_text"><h4 class="widget-title">Connect With Us</h4>			<div class="textwidget"><p><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTrustedneuro%2F&#038;tabs=timeline&#038;width=300px&#038;height=300px&#038;small_header=true&#038;adapt_container_width=true&#038;hide_cover=false&#038;show_facepile=false&#038;appId=161776293965345" width="300px" height="300px" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></p>
+</div>
+		<div style="clear:both;"></div></section><style type="text/css" data-id="social_links-widget-2">@media (max-width: 1050px){#social_links-widget-2{text-align:center !important;}}</style><section id="social_links-widget-2" class="fusion-widget-mobile-align-center fusion-widget-align-right fusion-footer-widget-column widget social_links" style="text-align: right;">
+		<div class="fusion-social-networks boxed-icons">
+
+			<div class="fusion-social-networks-wrapper">
+								
+																																																							<a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" href="https://www.facebook.com/Trustedneuro/"  data-placement="top" data-title="Facebook" data-toggle="tooltip" data-original-title=""  title="Facebook" aria-label="Facebook" rel="noopener noreferrer" target="_self" style="border-radius:4px;padding:12px;font-size:16px;color:#ffffff;background-color:#3b5998;border-color:#3b5998;"></a>
+											
+										
+																																																							<a class="fusion-social-network-icon fusion-tooltip fusion-twitter fusion-icon-twitter" href="https://twitter.com/trustedneuro"  data-placement="top" data-title="Twitter" data-toggle="tooltip" data-original-title=""  title="Twitter" aria-label="Twitter" rel="noopener noreferrer" target="_self" style="border-radius:4px;padding:12px;font-size:16px;color:#ffffff;background-color:#55acee;border-color:#55acee;"></a>
+											
+										
+																																																							<a class="fusion-social-network-icon fusion-tooltip fusion-instagram fusion-icon-instagram" href="https://www.instagram.com/trustedneuroacademy/"  data-placement="top" data-title="Instagram" data-toggle="tooltip" data-original-title=""  title="Instagram" aria-label="Instagram" rel="noopener noreferrer" target="_self" style="border-radius:4px;padding:12px;font-size:16px;color:#ffffff;background-color:#3f729b;border-color:#3f729b;"></a>
+											
+										
+																																																							<a class="fusion-social-network-icon fusion-tooltip fusion-linkedin fusion-icon-linkedin" href="https://www.linkedin.com/company/trusted-neurodiagnostics-academy/"  data-placement="top" data-title="LinkedIn" data-toggle="tooltip" data-original-title=""  title="LinkedIn" aria-label="LinkedIn" rel="noopener noreferrer" target="_self" style="border-radius:4px;padding:12px;font-size:16px;color:#ffffff;background-color:#0077b5;border-color:#0077b5;"></a>
+											
+										
+				
+			</div>
+		</div>
+
+		<div style="clear:both;"></div></section>																					</div>
+																																				
+				<div class="fusion-clearfix"></div>
+			</div> <!-- fusion-columns -->
+		</div> <!-- fusion-row -->
+	</footer> <!-- fusion-footer-widget-area -->
+
+	
+	<footer id="footer" class="fusion-footer-copyright-area fusion-footer-copyright-center">
+		<div class="fusion-row">
+			<div class="fusion-copyright-content">
+
+				<div class="fusion-copyright-notice">
+		<div>
+		© Copyright 2019  |  Website & Marketing by <img src="https://trustedacademy.com/wp-content/uploads/NSMTransparent11-300x66.png" alt="nailsoupmedia" style="background:#fff;">	</div>
+</div>
+<div class="fusion-social-links-footer">
+	</div>
+
+			</div> <!-- fusion-fusion-copyright-content -->
+		</div> <!-- fusion-row -->
+	</footer> <!-- #footer -->
+		</div> <!-- fusion-footer -->
+
+		
+					<div class="fusion-sliding-bar-wrapper">
+								<div id="slidingbar-area" class="slidingbar-area fusion-sliding-bar-area fusion-widget-area fusion-sliding-bar-position-right fusion-sliding-bar-text-align-center fusion-sliding-bar-toggle-menu fusion-sliding-bar-sticky fusion-sliding-bar-columns-stacked" data-breakpoint="1050" data-toggle="menu">
+		
+		<div id="slidingbar" class="fusion-sliding-bar">
+						<div class="fusion-sliding-bar-content-wrapper">
+									<div class="fusion-sb-toggle-wrapper">
+						<a class="fusion-sb-close" href="#"><span class="screen-reader-text">Close Sliding Bar Area</span></a>
+					</div>
+								<div class="fusion-sliding-bar-content">
+
+																														<div class="fusion-column">
+							<section id="nav_menu-6" class="fusion-slidingbar-widget-column widget widget_nav_menu"><div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-72317"><a href="https://trustedacademy.com/">Home New</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="https://trustedacademy.com/login/">Log In</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5925"><a href="https://trustedacademy.com/upcoming-classes/">Upcoming Classes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4960"><a href="https://trustedacademy.com/shop/">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5913"><a href="https://trustedacademy.com/site-eeg-training/">On Site Training</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-71385"><a href="#">More</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4887"><a href="https://trustedacademy.com/about-us/">About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96230"><a href="https://trustedacademy.com/reviews/">Reviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97111"><a href="https://trustedacademy.com/study-tips/">Study Resources</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4861"><a href="https://trustedacademy.com/faq/">FAQ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4860"><a href="https://trustedacademy.com/articles/">Guidelines</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81166"><a href="https://trustedacademy.com/group-management/">Group Management</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5366"><a href="https://trustedacademy.com/contact/">Contact</a></li>
+</ul>
+</li>
+</ul></div><div style="clear:both;"></div></section>																						</div>
+																															<div class="fusion-column">
+							<section id="text-5" class="fusion-slidingbar-widget-column widget widget_text"><h4 class="widget-title">ABOUT US</h4>			<div class="textwidget"><div class="fusion-text">
+<p>When we started our careers in IOM, 10+ years ago we were thrown into the OR with little to no formal training. Without access to a quality program and no guidance, we struggled to pass the CNIM exam. As we grew in our careers that time was never far from our minds and we don’t want new technologists to have the same struggles we did.<br />
+<a href="https://trustedacademy.com/about-us/"><br />
+Read More&#8230;</a>
+</div>
+</div>
+		<div style="clear:both;"></div></section>																						</div>
+																															<div class="fusion-column">
+														</div>
+																																																	<div class="fusion-clearfix"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+						</div>
+
+												</div> <!-- wrapper -->
+		</div> <!-- #boxed-wrapper -->
+		<div class="fusion-top-frame"></div>
+		<div class="fusion-bottom-frame"></div>
+		<div class="fusion-boxed-shadow"></div>
+		<a class="fusion-one-page-text-link fusion-page-load-link"></a>
+
+		<div class="avada-footer-scripts">
+			<div id="pum-97483" class="pum pum-overlay pum-theme-97132 pum-theme-default-theme popmake-overlay click_open" data-popmake="{&quot;id&quot;:97483,&quot;slug&quot;:&quot;cltm-board-prep-back-up&quot;,&quot;theme_id&quot;:97132,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_97483">
+
+	<div id="popmake-97483" class="pum-container popmake theme-97132 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				            <div id="pum_popup_title_97483" class="pum-title popmake-title">
+				CLTM Board Prep back up!!			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content">
+			<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="video-shortcode">
+<blockquote class="wp-embedded-content" data-secret="xqpZg86ile"><p><a href="https://trustedacademy.com/product/cltm-board-prep/">NEW CLTM Board Prep © 16.5 ASET CEUs</a></p></blockquote>
+<p><iframe title="&#8220;NEW CLTM Board Prep © 16.5 ASET CEUs&#8221; &#8212; Neurodiagnostics EEG" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://trustedacademy.com/product/cltm-board-prep/embed/#?secret=xqpZg86ile" data-secret="xqpZg86ile" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p></div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			CLOSE            </button>
+		
+	</div>
+
+</div>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/trustedacademy.com"}},{"@type":"ListItem","position":2,"item":{"name":"EEG","@id":"https:\/\/trustedacademy.com\/product-category\/eeg\/"}}]}</script>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://trustedacademy.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://trustedacademy.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.3.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var themeMyLogin = {"action":"","errors":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/theme-my-login/assets/scripts/theme-my-login.min.js?ver=7.0.15'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_9a30f78e86dae43d2698f41a3ab6e1be","fragment_name":"wc_fragments_9a30f78e86dae43d2698f41a3ab6e1be","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"https:\/\/trustedacademy.com\/wp-admin\/admin-ajax.php","force_ajax_send":"1","is_crawler":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/thrive-visual-editor/thrive-dashboard/js/dist/frontend.min.js?ver=2.2.9.1'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/easy-fancybox/js/jquery.fancybox.min.js?ver=1.3.24'></script>
+<script type='text/javascript'>
+var fb_timeout, fb_opts={'overlayShow':true,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'centerOnScroll':false,'enableEscapeButton':true,'autoScale':true };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery('.nofancybox,a.wp-block-file__button,a.pin-it-button,a[href*="pinterest.com/pin/create"],a[href*="facebook.com/share"],a[href*="twitter.com/share"]').addClass('nolightbox');
+/* IMG */
+var fb_IMG_select='a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpg"]:not(.nolightbox),a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpeg"]:not(.nolightbox),a[href*=".png"]:not(.nolightbox,li.nolightbox>a),area[href*=".png"]:not(.nolightbox),a[href*=".webp"]:not(.nolightbox,li.nolightbox>a),area[href*=".webp"]:not(.nolightbox)';
+jQuery(fb_IMG_select).addClass('fancybox image');
+var fb_IMG_sections=jQuery('.gallery,.wp-block-gallery,.tiled-gallery,.wp-block-jetpack-tiled-gallery');
+fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gallery-'+fb_IMG_sections.index(this));});
+jQuery('a.fancybox,area.fancybox,li.fancybox a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'transitionIn':'elastic','easingIn':'easeOutBack','transitionOut':'elastic','easingOut':'easeInBack','opacity':false,'hideOnContentClick':false,'titleShow':true,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false}))});
+/* YouTube */
+jQuery('a[href*="youtu.be/"],area[href*="youtu.be/"],a[href*="youtube.com/"],area[href*="youtube.com/"]').filter(function(){return this.href.match(/\/(?:youtu\.be|watch\?|embed\/)/);}).not('.nolightbox,li.nolightbox>a').addClass('fancybox-youtube');
+jQuery('a.fancybox-youtube,area.fancybox-youtube,li.fancybox-youtube a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'iframe','width':740,'height':400,'padding':10,'keepRatio':1,'titleShow':false,'titlePosition':'float','titleFromAlt':true,'onStart':function(a,i,o){var splitOn=a[i].href.indexOf("?");var urlParms=(splitOn>-1)?a[i].href.substring(splitOn):"";o.allowfullscreen=(urlParms.indexOf("fs=0")>-1)?false:true;o.href=a[i].href.replace(/https?:\/\/(?:www\.)?youtu(?:\.be\/([^\?]+)\??|be\.com\/watch\?(.*(?=v=))v=([^&]+))(.*)/gi,"https://www.youtube.com/embed/$1$3?$2$4&autoplay=1");}}))});};
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+</script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/easy-fancybox/js/jquery.easing.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js?ver=3.1.13'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/uploads/fusion-scripts/9b2b52db32d2c65d2d0621071958a559.min.js?ver=2.2.0'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pum_vars = {"version":"1.9.1","ajaxurl":"https:\/\/trustedacademy.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/trustedacademy.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"97132","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "https:\/\/trustedacademy.com\/wp-admin\/admin-ajax.php";
+var pum_sub_vars = {"ajaxurl":"https:\/\/trustedacademy.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-97483":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_form_submission":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_id":"97132","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","close_on_form_submission_delay":"0","triggers":[],"cookies":[],"theme_slug":"default-theme","id":97483,"slug":"cltm-board-prep-back-up"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//trustedacademy.com/wp-content/uploads/pum/pum-site-scripts.js?defer&#038;generated=1583154352&#038;ver=1.9.1'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-content/plugins/easy-testimonials/include/assets/js/jquery.cycle2.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://trustedacademy.com/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<script type="text/javascript">var tcb_post_lists=JSON.parse('[]');</script><script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) {var TL_Const={"security":"4a4a97423c","ajax_url":"https:\/\/trustedacademy.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"custom_post_data":{"get_data":{"show_on_study":"1"}},"current_screen":{"screen_type":6,"screen_id":0},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]};} else {ThriveGlobal.$j.extend(true, TL_Const, {"security":"4a4a97423c","ajax_url":"https:\/\/trustedacademy.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"custom_post_data":{"get_data":{"show_on_study":"1"}},"current_screen":{"screen_type":6,"screen_id":0},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]})} /*]]> */</script>				<script type="text/javascript">
+				jQuery( document ).ready( function() {
+					var ajaxurl = 'https://trustedacademy.com/wp-admin/admin-ajax.php';
+					if ( 0 < jQuery( '.fusion-login-nonce' ).length ) {
+						jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) {
+							jQuery( '.fusion-login-nonce' ).html( response );
+						});
+					}
+				});
+				</script>
+				<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":["WebPage","FAQPage"],"mainEntity":[{"@type":"Question","name":"Foundations PLUS - EEG from A to Z; A Full Didactic Series \u00a9 31 ASET CEUs","acceptedAnswer":{"@type":"Answer","text":"<h4>What makes this course different?<\/h4>\r\nTrusted Neurodiagnostics Academy understands that the EEG field is changing. \u00a0We have a lot of new EEG techs that are trained on the job and need the knowledge to grow in the field, pass the R EEGT exam and continue growing in their career. \u00a0We have developed a course that will combine the basic knowledge needed to be a quality EEG Technologist as well as what is needed to successfully pass the ABRET EEG Exam.\r\n\r\nThis course overs all the material listed in the ABRET EEG Exam outline and then some. \u00a0Throughout the course we will expand on Larry Head's lectures with reading assignments from the textbook as well as additional lectures and instruction from other leaders in the EEG field.\r\n<h2>Course Material:<\/h2>\r\n<ul>\r\n \t<li>Textbook is provided with the purchase of the course and is required to successfully pass the course.<\/li>\r\n<\/ul>\r\n<h2>Course Topics<\/h2>\r\nFoundations PLUS will cover:\r\n<ul>\r\n \t<li>Requirements to sit for the R.EEGT \u00a0exam through <a href=\"https:\/\/www.abret.org\/candidates\/credentials\/eeg\/\">ABRET<\/a><\/li>\r\n \t<li><a href=\"https:\/\/www.acns.org\/practice\/guidelines\">ACNS Guidelines<\/a><\/li>\r\n \t<li>HIPPA standards\r\n<ul>\r\n \t<li><a href=\"https:\/\/www.hhs.gov\/hipaa\/for-professionals\/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.hhs.gov\/hipaa\/for-professionals\/index.html<\/a><\/li>\r\n<\/ul>\r\n<\/li>\r\n \t<li>MSDS\/OSHA standards\r\n<ul>\r\n \t<li><a href=\"https:\/\/www.osha.gov\/Publications\/OSHA3514.html\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.osha.gov\/Publications\/OSHA3514.html<\/a><\/li>\r\n \t<li><a href=\"https:\/\/www.osha.gov\/chemicaldata\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.osha.gov\/chemicaldata\/<\/a><\/li>\r\n<\/ul>\r\n<\/li>\r\n \t<li>National Safety Patient Goals\r\n<ul>\r\n \t<li><a href=\"https:\/\/www.jointcommission.org\/assets\/1\/6\/2018_HAP_NPSG_goals_final.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/www.jointcommission.org\/assets\/1\/6\/2018_HAP_NPSG_goals_final.pdf<\/a><\/li>\r\n<\/ul>\r\n<\/li>\r\n \t<li>Basic electronics<\/li>\r\n \t<li>Troubleshooting Audio\/visual equipment<\/li>\r\n<\/ul>\r\n<h2>The Trusted Neurodiagnostics Academy Guarantee<\/h2>\r\nAt Trusted Neurodiagnostics Academy, we guarantee that our classes will produce successful results to pass the board exams. Unlike other courses, we will allow you to extend your access to the CLTM exam Prep course if you do not pass the exam.\r\n\r\n<a href=\"https:\/\/trustedacademy.com\/faq\/\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/trustedacademy.com\/faq\/<\/a>\r\n<h4>TDA\/LHI Pass Guarantee \u2013\u00a0<small>At Trusted Neurodiagnostics Academy \u00a0we consider ourselves successful only when our students are successful.<\/small><\/h4>"}},{"@type":"Question","name":"LHI EEG Board Prep \u00a9 25 ASET CEUs with Print Format Study Guide","acceptedAnswer":{"@type":"Answer","text":"<strong>STUDY GUIDE:<\/strong>\r\n\r\nThis is a workbook that is designed to compliment the LHI EEG Online Board Prep. It also contains 199 EEG sample test questions and answers.\r\n\r\n<strong><span style=\"color: #ff0000;\">**** Shipping to\u00a0<span style=\"caret-color: #ff0000;\">countries<\/span>\u00a0outside the US will receive a separate invoice to cover shipping***<\/span><\/strong>\r\n\r\n<strong>LHI EEG BOARD PREP: \u00a0<\/strong>\r\n\r\nThis is not just another EEG book to read. Study at your own pace as you watch Larry thoroughly explain each EEG topic in this online VIDEO course. \u00a0<span style=\"color: #ff0000;\"><strong>Your subscription to this course will last 360 days from date of purchase.<\/strong><\/span>\r\n\r\n<span style=\"color: #ff0000;\"><strong>This course has been approved for 25 ASET CEUs.<\/strong><\/span>\r\n\r\nThis comprehensive board preparation course will prepare the experienced technologist for 2018 American Board of Electroencephalographic and Evoked Potential Technologists (ABRET\u00ae) EEG credential examination.\r\n\r\nThe EEG ABRET Exam consists of 250 written multiple choice questions. Larry Head Institute\u2019s Board Preparation course follows the ABRET outline.\r\n<div class=\"row\">\r\n<div class=\"span10\">\r\n<div class=\"alert alert-info alert-block\">\r\n<h3><strong><i>COURSE OUTLINE:<\/i><\/strong><\/h3>\r\n<div class=\"row\">\u00a0Pre Study\/Patient Preparation<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"page-header\">\u00a0Elements of history, communication, and building rapport<\/div>\r\n<div class=\"row\">\r\n<div class=\"span10\">\r\n<div class=\"alert alert-info alert-block\">\r\n<div class=\"row\">\r\n<div class=\"span6\">\r\n\r\nMedical \/ EEG terminology\r\n\r\nCommon medications\/treatments\r\n\r\nKnowledge of HIPPA\r\n\r\n<\/div>\r\n<div class=\"span6\">\r\n\r\nNeurological disorders\r\n\r\nNeuroanatomy and neurophysiology\r\n\r\nElectrode Placement, properties, and the 10-20 System\r\n\r\nObtaining acceptable impedances\r\n\r\nInfection control (patients, equipment, electrodes, etc)\r\n\r\nAllergies and sensitivities\r\n\r\nRelated SDS\/OHSA standars\r\n\r\nPatient safety\/Electrical safety\r\n\r\nABRET Code of Ethics\r\n\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"span2\">\u00a0<i>Elements of a History<\/i> \u2013 Why take a patient history, personal information, EEG ID information, chief complaint, handedness, time of last meal, medications, other diagnostic test results, HV contraindications, skull defects, sleep deprivation, previous EEG results, and specific scenarios as examples<\/div>\r\n<\/div>\r\n<i>Medical \/ EEG Terminology<\/i> \u2013 Larry will walk you through the definitions of relevant terms and give examples that will help make the terminology \u201ccome alive\u201d, easier to understand and remember. He will cover general medical terms and terminology specific to neurodiagnostics.\r\n\r\n<i>Common Medications &amp; Treatments<\/i>\u00a0\u2013 The more common medications prescribed for neurology patients will be reviewed. Medications and the disorder or disease for which they are used will be described.\r\n\r\n<i>Knowledge of HIPPA<\/i> \u2013 Larry will discuss what you need to know to protect the privacy a patient\u2019s health information, what constitutes protected health information and the technologist\u2019s responsibility to their patients.\r\n\r\n<i>Neurologic Examination &amp; Disorders -\u00a0<\/i>\u00a0Larry will discuss how to examine the patient\u2019s cerebral function (mental status), cranial nerve function, motor function, sensory function, cerebellar function, reflex status and gait &amp; stance.\r\n\r\n<i>Basic Neuroanatomy<\/i> \u2013 Meninges, Reflections, Cerebral hemispheres, Motor and Sensory cortex, Gray and White matter, Primary tracts, Commissures, Lobes, Fissures, Speech areas, Thalamus and Hypothalamus, Basal Ganglia, Internal capsule, Brainstem, Reticular activating system, Cerebellum, Ventricular system, Vascular (arterial) system, and Cranial nerves.\r\n\r\n<i>Basic Neurophysiology<\/i> \u2013 Neuron parts and function, Action potential, Resting membrane potential, Depolarization \/ Repolarization, Sodium-Poatassium pump, Propagation, Neurotransmitter, Synaptic cleft, Synapse, Pre &amp; Postsynaptic membrane, Excitatory Postsynaptic Potential (EPSP), Inhibitory Postsynaptic Potential (IPSP), Absolute Refractory Period, Relative Refractory Period, and EEG Signal).\r\n\r\n<i>Electrode Placement &amp; International 10-20 System<\/i> \u2013 Larry will review the proper procedure for measuring and marking the head as well as techniques for quickly calculating head measurements.\r\n\r\n<i>Obtaining Acceptable Impedances<\/i> \u2013 We will detail acceptable impedance values and properly balancing the amplifier inputs.\r\n\r\n<i>Infection control<\/i> \u2013 We will discuss how to prevent cross contamination between patients and how to clean electrodes between uses. Sources and sites, modes of transmission, standard precautions, non-critical, semi-critical, and critical items specific to EEG, will be discussed thoroughly.\r\n<div class=\"page-header\">\r\n\r\n<i>Allergies &amp; Sensitivities<\/i>\u00a0\u2013 Under construction\r\n\r\n<i>Infection control<\/i> \u2013 We will discuss how to prevent cross contamination between patients and how to clean electrodes between uses. Sources and sites, modes of transmission, standard precautions, non-critical, semi-critical, and critical items specific to EEG, will be discussed thoroughly.\r\n<div class=\"page-header\">\r\n\r\n<i>Related MSDS \/ OSHA Standards<\/i> \u2013 Larry will explain OSHA standards, employer responsibilities, enforcement, MSCS components and the importance of OSHA &amp; MSDS.\r\n<div class=\"page-header\">\u00a0<em>Patient safety<\/em>\u00a0\u2013 Medical emergencies, fire, instrument inspections and preventative maintenance<\/div>\r\n<\/div>\r\n<\/div>\r\n<div><em>Electrical safety -\u00a0<\/em>Under Construction<\/div>\r\n<i>ABRET Code of Ethics<\/i> \u2013 We will discuss complying with ACNS guidelines, patients\u2019 rights &amp; human dignity, thoroughness in performance of duties &amp; interaction with patients, patient &amp; medical confidentiality, the technologist\u2019s responsibility to remain current in technology &amp; the neurodiagnostic field, the technologist\u2019s responsibility to remain ethical, legal and to not interpret, the technologist\u2019s responsibility to be truthful, cooperative &amp; compliant with ABRET rules &amp; to respect ABRET\u2019s intellectual property, the necessity to report to ABRET any felony convictions, and ABRET\u2019s disciplinary recourse.\r\n<div class=\"page-header\">\r\n<h3 class=\"scroll-header\" title=\"Disorders\">Performing the Study<small><\/small><\/h3>\r\n<\/div>\r\n<div class=\"row\">\r\n<div class=\"span10\">\r\n<div class=\"alert alert-info alert-block\">\r\n<div class=\"row\">\r\n<div class=\"span6\">\r\n\r\nDocumentation\r\n\r\nMonitoring techniques (age specific, state specific)\r\n\r\nRecording strategies (montages, parameter changes)\r\n\r\nDigital instrumentation (filters, etc)\r\n\r\nEffects of medications on the recording\r\n\r\nActivation techniques\/contraindications to activation\r\n\r\nIdentifying, eliminating\/monitoring artifacts\r\n\r\nTroubleshooting\r\n\r\nManaging clinical events\r\n\r\nSleep stages and patterns\r\n\r\nCorrelation of history with EEG patients\r\n\r\nNormal variants\r\n\r\nNormal\/abnormal adult EEG\r\n\r\nNormal\/abnormal pediatric EEG\r\n\r\nNormal\/abnormal neonatal EEG\r\n\r\nACNS Guidelines and terminology\r\n\r\nElectropgraphic correlates to clinical\/non-clinical entities\r\n\r\nLocalization and polarity\r\n\r\nMeasurement of frequency, voltage, and duration\r\n\r\nWaveform analysis &amp; identification\r\n\r\nECI recordings and guidelines\r\n\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"span2\"><i>Documentation \u2013 We will explain how to properly document instrument settings, artifacts, patient movement &amp; changes in body position, levels of consciousness, and stimulation techniques.<\/i><\/div>\r\n<\/div>\r\n<div><\/div>\r\n<div><i>Age-specific considerations<\/i> \u2013 How to deal with neonates, pediatric and the adult patient is imperative. When is the best time to perform the EEG for a neonate? Documentation of gestational, chronological, and conceptional age, notations and observation, modified electrode placement for small head size will be reviewed. Required recording time to include awake and active and quiet sleep stages are considerations for recording neonates. Pediatric considerations include comforting the patient and explaining the procedure in a way to calm a child. Geriatric patients and the mentally impaired present their own set of challenges when recording EEG. This review will address each of these and more.<\/div>\r\n<div><\/div>\r\n<div><i>Coma and altered mental status<\/i> \u2013 Dealing with and recording the EEG on a comatose patient can be challenging. Larry will discuss how the EEG may be helpful in determining the depth and severity of the coma, how the EEG can aid in suggesting a possible cause for the coma, and what the EEG actually displays in the comatose state. Differing levels on consciousness will be reviewed as well as stimulation techniques. Specific patterns such as IRDA, spindle coma, alpha coma, and burst suppression seen during coma will be thoroughly explained.<\/div>\r\n<div><\/div>\r\n<div><i>Basic Recording Strategies (Montages &amp; Parameter Changes)<\/i> \u2013 We will review the various types of bipolar and referential montages, when to select each type, and their advantages &amp; disadvantages. We will also discuss the impact that changing parameters such as sensitivity and filters will have on our recorded data, and times when it is appropriate to adjust the recording parameters.<\/div>\r\n<div><\/div>\r\n<div><i>Digital\u00a0instrumentation\u00a0<\/i>\u2013 The different types of filters (HF, LF &amp; Time Constant, 60 Hz) are explained thoroughly. The effect each has on the EEG signal will be reviewed. High pass and low pass filter terminology will be explained. \u00a0As well as\u00a0analog vs digital recording, horizontal resolution and vertical resolution<\/div>\r\n<i>Effects of medications on recording and patients<\/i> \u2013 The more common medications prescribed for neurology patients will be reviewed. Medications, the disorder or disease for which they are used, and their effect on the EEG and the patient will be described in detail.\r\n\r\n<i>Activation techniques<\/i> \u2013 Hyperventilation, photic stimulation, and sleep are common activation techniques routinely performed during the EEG test. Larry will describe why and how each is performed, contraindications, artifacts commonly seen, normal and abnormal responses.\r\n<div class=\"page-header\">\u00a0<i>Artifacts and Monitoring<\/i> \u2013 Larry will review physiologic (muscle, eye, sweat, cardiac, mouth and movement) and non-physiologic (electrode, electrical and environment) artifacts, recognition techniques, documentation and how to eliminate each artifact type.<\/div>\r\n<i>Troubleshooting<\/i> \u2013 We will explain how to identify problems, trace the problem to the cause, introduce a troubleshooting checklist and the describe how to properly eliminate and\/or monitor problems.\r\n\r\n<i>Managing clinical events<\/i> \u2013 How to identify and care for the patient during seizure and cardiac\/respiratory arrest is of utmost importance. Follow Larry as he explains how to care for the patient that is having a clinical episode.\r\n\r\n<em>Sleep stages and patterns -\u00a0<\/em>Larry will move into sleep patterns including stage N1 (alpha attenuation, slow rolling eye movements, POSTS &amp; vertex sharp waves), stage N2 (sleep spindles and K complexes), stage N3 (slow wave sleep) and stage R (rapid eye movement and saw-tooth waves).\r\n\r\n<i>Correlation of history with specific EEG patterns (breech, JCD, etc)<\/i> \u2013 Few, but some, EEG patterns are diagnostic. Larry will help you understand how to correlate a patient history with a specific pattern.\r\n\r\n<i>Normal Adult, Pediatric, and Neonatal EEG<\/i> \u2013 Larry will review relevant terminology including frequency, voltage, location, symmetry, periodic, variability, duration, morphology, polarity, synchrony and reactivity. He will introduce normal adult EEG patterns including alpha, beta, theta, lambda, wickets, breach rhythm, SREDA, posterior slow waves of youth, Mu rhythm, RMTD, 14 &amp; 6 positive spikes, 6 Hz spike &amp; wave and BETS. Then he will move into sleep patterns including stage N1 (alpha attenuation, slow rolling eye movements, POSTS &amp; vertex sharp waves), stage N2 (sleep spindles and K complexes), stage N3 (slow wave sleep) and stage R (rapid eye movement and saw-tooth waves). EEG waveforms and patterns specific to the pediatric and neonatal patient will be discuss thoroughly. These include for the neonatal EEG the definition of gestational, chronological, and conceptional age, modified electrode placement for a small head circumference, suggested montage, monitoring of non-cerebral parameters, stimulation techniques, documentation, characteristics and assessment of the neonatal EEG during wakefulness, active and quiet sleep, Trace Discontinue, Trace Alternant, and concluding with a detailed review of the neonatal EEG maturation. Pediatric EEG will be reviewed thoroughly. When the alpha rhythm presents, trace alternant, O waves and EEG patterns such as Posterior Slow Wave of Youth, HV Buildup, LAMBDA, POSTS, and Hypnogogic Hypersynchrony will be discussed in detail. Synchrony and symmetry between hemispheres will be reviewed. Sleep spindles, K-complexes will be addressed.\r\n\r\n<i>Abnormal EEG<\/i> \u2013 Finally, Larry will review abnormal patterns including background changes, FIRDA, PLEDS, Alpha Coma, Burst Suppression, Herpes Simplex, ECI, delta (monomorphic &amp; polymorphic), OIRDA, BIPLEDS, Triphasic Waves, CJD, 3 Hz Spike &amp; Wave, and Generalized Spike &amp; Wave seen in the adult. Pediatric abnormalities include benign rolandic spikes, absence seizures, Juvenile Myoclonic Epilepsy, Landau-Kleffner Syndrome, West Syndrome and the Hypsarrhythmia EEG pattern, Lennox-Gastaut Syndrome and slow spike and wave, and Sturge-Weber Syndrome are all covered in detail. Each will be reviewed regarding symptoms, medications, and EEG patterns.\r\n\r\n<em>Abnormal Neonatal EEG -\u00a0<\/em>Under Construction\r\n\r\n<em><a href=\"http:\/\/www.acns.org\/practice\/guidelines\">ACNS Guidelines<\/a> &amp; Terminology\u00a0<\/em>\r\n\r\n<i>Electrographic correlates to\u00a0clinical\/non-clinical entities<\/i>\u00a0\u2013 Recognizing EEG patterns is absolutely necessary. This topic is intermixed with other topics and covered completely.\r\n<div class=\"page-header\">\u00a0<i>Polarity and Localization<\/i> \u2013 Larry will review the differential amplifier, montage types &amp; localization techniques, the polarity square. Additionally, students will be given the opportunity to work through examples practicing there skills at determining montage, focus, field and polarity.<\/div>\r\n<i>Measurements of frequency, voltage and duration<\/i> \u2013 Larry will discuss the sensitivity pie and the relationship of voltage, amplitude and sensitivity. Additionally, he will discuss frequency and duration, paper speed, and the measurements, formulas &amp; calculation methods for each. Students will come away with a complete understanding of how to calculate measurements.\r\n\r\n<i>Waveform Identification (Normal, Abnormal, Wake and Sleep)<\/i> \u2013 Larry will review relevant terminology including frequency, voltage, location, symmetry, periodic, variability, duration, morphology, phase, synchrony and reactivity. He will introduce normal EEG patterns including alpha, beta, theta, lambda, wickets, breach rhythm, SREDA, posterior slow waves of youth, Mu rhythm, RMTD, 14 &amp; 6 positive spikes, 6 Hz spike &amp; wave and BETS. Then he will move into sleep patterns including stage N1 (alpha attenuation, slow rolling eye movements, POSTS &amp; Vertex sharp waves), stage N2 (sleep spindles and K complexes), stage N3 (slow wave sleep) and stage R (rapid eye movement and saw-tooth waves). Finally, he will review abnormal patterns including background changes, FIRDA, PLEDS, alpha, burst suppression, Herpes Simplex, ECI, delta (monomorphic &amp; polymorphic), OIRDA, BIPLEDS, triphasic waves, CJD, 3 Hz spike &amp; wave, and generalized spike &amp; wave.\r\n\r\n<i>Waveform Calculations (amplitude, voltage, duration, frequency and paper speed)<\/i> \u2013 Larry will discuss the sensitivity pie and the relationship of voltage, amplitude and sensitivity. Additionally, he will discuss frequency and duration, paper speed, and the measurements, formulas &amp; calculation methods for each.\r\n<div class=\"page-header\"><a href=\"http:\/\/www.massgeneral.org\/neurology\/assets\/epilepsy\/ECI_TechnicalRequirements_Guideline3.pdf\">\u00a0<em>ECI recordings &amp; guidelines<\/em><\/a><\/div>"}}]}</script>
+		<!-- Cookie Notice plugin v1.2.50 by Digital Factory https://dfactory.eu/ -->
+		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: #000;"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap button">Ok</a><a href="https://trustedacademy.com/privacy-policy/" target="_blank" id="cn-more-info" class="cn-more-info cn-button bootstrap button">Privacy policy</a></span></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin --><script>
+            jQuery(document).on("berocket_aapf_time_to_fix_products_style", function() {
+                jQuery(the_ajax_script.products_holder_id).find("*").filter(function() {return jQuery(this).css("opacity") == "0";}).css("opacity", 1);
+            });
+            </script><script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){return}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){return}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://trustedacademy.com/wp-content/plugins/wp-rocket/assets/js/lazyload/12.0/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>		</div>
+	</body>
+</html>
